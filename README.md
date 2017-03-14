@@ -1,3 +1,3 @@
 # assignments
 
-[assignment1](https://github.com/XueerHu/assignments/blob/master/Assignment_week_2.ipynb)
+[assignment1](http://localhost:8888/notebooks/Downloads/Assignment_week_2.ipynb)
